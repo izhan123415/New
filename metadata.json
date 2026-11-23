@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Craft",
+  "description": "Handcrafted cakes, bento cakes, mousse cakes, and artisanal desserts made to order in London by Sweet Craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
